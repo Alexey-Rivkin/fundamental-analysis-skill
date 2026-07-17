@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.uv-cache/
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
+report*.md
+out*.json
