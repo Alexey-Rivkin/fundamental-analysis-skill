@@ -1,5 +1,7 @@
 # fundamental-analysis-skill
 
+**English** · [עברית](README.he.md)
+
 Ask your AI agent to analyze a stock, get a full fundamental report back.
 
 - **Layer 1 — Profitability:** revenue growth, gross/operating/net margin, EPS, EBITDA
